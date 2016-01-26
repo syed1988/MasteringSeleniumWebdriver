@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="5826" started-at="2016-01-25T23:06:38Z" finished-at="2016-01-25T23:06:44Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="5826" started-at="2016-01-25T23:06:38Z" finished-at="2016-01-25T23:06:44Z">
+      <class name="com.webdriver.selenium.mastering.basicTestWD">
+        <test-method status="PASS" signature="instantiateDriverObject()[pri:0, instance:com.webdriver.selenium.mastering.basicTestWD@880ec60]" name="instantiateDriverObject" is-config="true" duration-ms="12" started-at="2016-01-25T18:06:38Z" finished-at="2016-01-25T18:06:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- instantiateDriverObject -->
+        <test-method status="PASS" signature="googleIceCreamExample()[pri:0, instance:com.webdriver.selenium.mastering.basicTestWD@880ec60]" name="googleIceCreamExample" duration-ms="4323" started-at="2016-01-25T18:06:38Z" finished-at="2016-01-25T18:06:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleIceCreamExample -->
+        <test-method status="PASS" signature="googleCheeseExample()[pri:0, instance:com.webdriver.selenium.mastering.basicTestWD@880ec60]" name="googleCheeseExample" duration-ms="3899" started-at="2016-01-25T18:06:38Z" finished-at="2016-01-25T18:06:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleCheeseExample -->
+        <test-method status="PASS" signature="clearCookies()[pri:0, instance:com.webdriver.selenium.mastering.basicTestWD@880ec60]" name="clearCookies" is-config="true" duration-ms="9" started-at="2016-01-25T18:06:42Z" finished-at="2016-01-25T18:06:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearCookies -->
+        <test-method status="PASS" signature="googleMilkExample()[pri:0, instance:com.webdriver.selenium.mastering.basicTestWD@880ec60]" name="googleMilkExample" duration-ms="1359" started-at="2016-01-25T18:06:42Z" finished-at="2016-01-25T18:06:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleMilkExample -->
+        <test-method status="PASS" signature="clearCookies()[pri:0, instance:com.webdriver.selenium.mastering.basicTestWD@880ec60]" name="clearCookies" is-config="true" duration-ms="5" started-at="2016-01-25T18:06:43Z" finished-at="2016-01-25T18:06:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearCookies -->
+        <test-method status="PASS" signature="googleYogurtExample()[pri:0, instance:com.webdriver.selenium.mastering.basicTestWD@880ec60]" name="googleYogurtExample" duration-ms="1475" started-at="2016-01-25T18:06:43Z" finished-at="2016-01-25T18:06:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleYogurtExample -->
+        <test-method status="PASS" signature="clearCookies()[pri:0, instance:com.webdriver.selenium.mastering.basicTestWD@880ec60]" name="clearCookies" is-config="true" duration-ms="5" started-at="2016-01-25T18:06:43Z" finished-at="2016-01-25T18:06:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearCookies -->
+        <test-method status="PASS" signature="clearCookies()[pri:0, instance:com.webdriver.selenium.mastering.basicTestWD@880ec60]" name="clearCookies" is-config="true" duration-ms="4" started-at="2016-01-25T18:06:44Z" finished-at="2016-01-25T18:06:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearCookies -->
+        <test-method status="PASS" signature="closeDriverObjects()[pri:0, instance:com.webdriver.selenium.mastering.basicTestWD@880ec60]" name="closeDriverObjects" is-config="true" duration-ms="159" started-at="2016-01-25T18:06:44Z" finished-at="2016-01-25T18:06:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverObjects -->
+      </class> <!-- com.webdriver.selenium.mastering.basicTestWD -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
